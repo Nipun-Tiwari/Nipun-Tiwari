@@ -151,12 +151,22 @@ I enjoy exploring new technologies, building software, and sharing ideas and lea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-tiwari001/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nipun-Tiwari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipuntiwari118@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nipun_Tiwari/)
 
 ### GitHub stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nipun-Tiwari&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=D9BED1&icon_color=D9BED1&text_color=C9D1D9&border_radius=12&custom_title=Nipun%27s%20GitHub%20Stats" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun-Tiwari&layout=compact&hide_border=true&bg_color=0D1117&title_color=D9BED1&text_color=C9D1D9&border_radius=12&custom_title=Most%20Used%20Languages" alt="Top languages" />
 </p>
+
+### LeetCode stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Nipun_Tiwari/">
+    <img src="https://leetcard.jacoblin.cool/Nipun_Tiwari?theme=dark&font=Montserrat&ext=heatmap&border=0&radius=12" alt="LeetCode stats" />
+  </a>
+</p>
+
 ### Employer?
 
 > [!IMPORTANT]
